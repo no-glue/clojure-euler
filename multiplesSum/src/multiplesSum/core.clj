@@ -6,5 +6,5 @@
   (reduce + (for[x (range 1 1000)
     :when (or (zero? (mod x 3)) (zero? (mod x 5)))]x)))
 
-(defn -main[&arg]
+(defn -main []
   (println (sum)))

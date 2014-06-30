@@ -16,5 +16,5 @@
 (defn sum [sequence]
   (reduce + sequence))
 
-(defn -main[]
+(defn -main []
   (println (sum(even(take 40 (fibSeq))))))
