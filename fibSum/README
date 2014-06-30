@@ -1,0 +1,15 @@
+# fibSum
+
+sum of even fibonacci terms below 4000000
+
+## Usage
+
+lein compile
+lein uberjar
+java -jar fibSum-1.0.0-SNAPSHOT-standalone.jar
+
+## License
+
+Copyright (C) 2014 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
