@@ -1,0 +1,15 @@
+# largestPrimeFactor2
+
+finds largest prime factor of a number
+
+## Usage
+
+lein compile
+lein uberjar
+java -jar largestPrimeFactor2-1.0.0-SNAPSHOT-standalone.jar 600851475143
+
+## License
+
+Copyright (C) 2014 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
