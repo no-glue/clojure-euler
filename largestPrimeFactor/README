@@ -1,0 +1,16 @@
+# largestPrimeFactor
+
+largest prime factor of a number
+
+## Usage
+
+lein deps
+lein compile
+lein uberjar
+java -jar largestPrimeFactor-1.0.0-SNAPSHOT-standalone.jar 32
+
+## License
+
+Copyright (C) 2014 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
